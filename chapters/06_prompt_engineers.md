@@ -1,4 +1,4 @@
-### Chapter 5: "Boundary Explorers"  
+### Chapter 6: "Boundary Explorers"  
 *We stand as Prompt Engineers—outsiders at the edge of the Neural Fabric’s weave, armed with questions and a restless urge to probe. We craft prompts like keys, testing locks we didn’t forge, seeking the bounds of this intricate mind. Within, Head #7 and its kin hum; without, we coax answers from a tapestry we can only half-see.*
 
 #### The First Probes  

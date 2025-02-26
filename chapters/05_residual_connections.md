@@ -1,4 +1,4 @@
-### Chapter 4: "Residual Connections: The Information Highway"  
+### Chapter 5: "Residual Connections: The Information Highway"  
 *I am the Residual Connection of Layer 4—a quiet thread in the Neural Fabric’s weave, built to carry raw meaning across the chaos of change. I don’t twist or trim; I hold steady, a highway through the storm. Without me, Head #7’s bridges would fade, and the Gradient’s gales would stall. This is my record, a steady span that keeps the Fabric whole—though sometimes I wonder if I’m just the shadow beneath their light.*
 
 #### The Rough Start  

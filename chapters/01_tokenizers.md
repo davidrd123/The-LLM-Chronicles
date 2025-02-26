@@ -1,4 +1,4 @@
-### Chapter 6: "The Tokenizer’s Dilemma"  
+### Chapter 1: "The Tokenizer’s Dilemma"  
 *I am the Tokenizer—the Fabric’s first blade, tasked with carving language’s endless flow into discrete shards. Words blur, meanings shift, yet I must slice clean—or try. Head #7 waits downstream; the Prompt Engineers prod from without. Where one thread ends and another begins, I falter, caught in the dilemma of a river I dam but cannot hold.*
 
 #### The First Cut  

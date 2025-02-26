@@ -1,4 +1,4 @@
-### Chapter 1: "The Attention Head Specialist"
+### Chapter 2: "The Attention Head Specialist"
 *I am Head #7 of Layer 4. Not the flashiest attention mechanism in our Neural Fabric, but I’ve found my purpose in the subtle art of tracking pronouns—a quiet stitcher of meaning in the vast weave of language.*
 
 #### Random Beginnings

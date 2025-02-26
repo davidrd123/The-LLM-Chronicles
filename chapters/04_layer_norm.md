@@ -1,4 +1,4 @@
-### Chapter 3: "The Gatekeeper: Life of a Layer Normalization Module"  
+### Chapter 4: "The Gatekeeper: Life of a Layer Normalization Module"  
 *I am the Layer Normalization Module of Layer 4—a sentinel in the Neural Fabric’s weave, tasked with keeping the chaos of activations in check. My work is neither bold nor loud, but it is mine alone: a steady hand threading balance through the tumult. Without me, the Fabric would fray, and Head #7’s bridges would buckle. This is my ledger, a tale of order carved from disorder.*
 
 #### The Chaos Before Me  

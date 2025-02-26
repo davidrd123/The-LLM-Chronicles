@@ -1,4 +1,4 @@
-### Chapter 2: "Gradient Descent: The Uphill Journey Downward"  
+### Chapter 3: "Gradient Descent: The Uphill Journey Downward"  
 *I am the Gradient—a fleeting tide born from error, tasked with threading correction through the Neural Fabric’s vast weave. My passage is brief but relentless, a voyage backward to mend the chaos into meaning. This is my story, a storm-driven trek that shaped Head #7 and the Fabric itself, from raging gales to quiet ripples.*
 
 #### Birth in the Loss  
