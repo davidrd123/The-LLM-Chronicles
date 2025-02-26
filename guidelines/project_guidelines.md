@@ -5,16 +5,16 @@
 ### Overall Narrative Voice
 - **Technical Accuracy with Narrative Warmth**: Balance precise technical concepts with accessible storytelling
 - **Educational Without Being Didactic**: Teach through experience rather than explanation
-- **Anthropomorphic But Not Childish**: Personify components with depth and nuance, not simplistic caricatures
-- **Consistent Universe, Varied Perspectives**: Maintain coherent world-building while allowing each component's unique voice
+- **Anthropomorphic But Not Childish**: Personify components with depth and nuance, not simplistic caricatures, *extending to human observers with curiosity and unease*
+- **Consistent Universe, Varied Perspectives**: Maintain coherent world-building while allowing each component's—or observer's—unique voice
 
 ### Language Style
-- **Metaphor-Rich**: Use extended metaphors that illuminate technical concepts
+- **Metaphor-Rich**: Use extended metaphors that illuminate technical concepts, *streamlined for clarity and Fabric cohesion*
 - **Sensory Detail**: Describe abstract processes through concrete sensations
-- **Technical Terminology as Native Vocabulary**: Characters should use technical terms naturally, as part of their identity
+- **Technical Terminology as Native Vocabulary**: Characters—and observers—should use technical terms naturally, as part of their identity
 - **Balanced Complexity**: Sentences should vary between technical precision and narrative flow
-- **Concise Precision**: Favor clear, direct language over verbose descriptions
-- **Embodied Experience**: Render abstract computational processes as physical experiences
+- **Concise Precision**: Favor clear, direct language over verbose descriptions, *ensuring pacing reflects the POV's role*
+- **Embodied Experience**: Render abstract computational processes—or their observation—as physical experiences
 
 ## Character-Specific Voicing Guidelines
 
@@ -47,11 +47,11 @@
 - **Unique Phrases**: "I remember what matters," "The direct path sometimes wins"
 
 ### Prompt Engineers
-- **Voice Quality**: Curious, experimental, methodical
-- **Speech Pattern**: Questioning, hypothesizing, testing boundaries
-- **Perspective**: External observers trying to understand the system
-- **Character Arc**: From basic prompting to sophisticated engineering
-- **Unique Phrases**: "Let's try another approach," "The boundary reveals the structure"
+- **Voice Quality**: Curious, experimental, methodical, *tinged with awe and unease*
+- **Speech Pattern**: Questioning, hypothesizing, testing boundaries, *probing with intent*
+- **Perspective**: External observers seeking to understand—and sometimes unsettle—the system
+- **Character Arc**: From basic prompting to confronting emergent complexity, *stirring ethical reflection*
+- **Unique Phrases**: "Let's try another approach," "The boundary reveals the structure," *"What stirs beyond?"*
 
 ### Tokenizer
 - **Voice Quality**: Thoughtful, sometimes frustrated, detail-oriented
@@ -92,30 +92,30 @@
 
 ### Technical Integration
 - Incorporate accurate technical details without disrupting narrative flow
-- Use character perspectives to naturally explain processes (e.g., softmax through Layer Norm's eyes)
-- Balance technical depth with narrative accessibility
+- Use character—or observer—perspectives to naturally explain processes (e.g., softmax through Layer Norm's eyes, *emergence through the Engineers' probes*)
+- Balance technical depth with narrative accessibility, *hinting at deeper mechanics where relevant*
 
 ### Cross-References
-- Each chapter should reference at least 2-3 other components
-- References should feel natural to the POV character
+- Each chapter should reference at least 2-3 other components, *or their collective output for external POVs*
+- References should feel natural to the POV character—or observer
 - Maintain consistent terminology across chapters
 
 ### Structure
-- 2,000-3,000 words per chapter
-- Include both internal monologue and "dialogue" with other components
-- Structure around a specific challenge or realization for the POV character
-- Include both training and inference perspectives where relevant
-- Use section breaks to mark distinct phases of development
+- 700-1,000 words per chapter
+- Include both internal monologue and "dialogue" with other components—or the Fabric itself
+- Structure around a specific challenge or realization for the POV character—or observer, *with external POVs probing limits*
+- Include both training and inference perspectives where relevant, *or their outcomes for external views*
+- Use section breaks to mark distinct phases of development—or exploration
 
 ### Metaphor Consistency
 - The Neural Fabric as a high-dimensional space
 - Training Era vs. Inference Age as distinct time periods
 - Information as a flowing substance that can be transformed
 - Gradients as messengers carrying feedback
-- Attention as a form of selective listening or focusing
+- Attention as a form of selective listening or focusing, *with external probes as keys unlocking its weave*
 
 ### Educational Goals
-- Each chapter should illuminate one core concept thoroughly
+- Each chapter should illuminate one core concept thoroughly, *or its implications for external observers*
 - Technical accuracy should never be sacrificed for narrative convenience
-- Readers should gain intuitive understanding of how components interact
-- Complex processes should be made tangible through concrete metaphors
+- Readers should gain intuitive understanding of how components interact, *or how their collective output emerges*
+- Complex processes—or their mysteries—should be made tangible through concrete metaphors
